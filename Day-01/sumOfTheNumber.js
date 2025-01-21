@@ -8,7 +8,7 @@ function sumOfNumber(number){
   return sum;
 }
 
-const number = 3234;
+const number = 12345;
 
 const result = sumOfNumber(number);
 console.log(result)
